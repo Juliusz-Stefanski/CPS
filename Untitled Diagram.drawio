@@ -1,1 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T20:02:16.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.2" etag="tiEFN4IH8e3Wi2iosiK_" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7ZjbctowEIafhksYH8LpEggkM22SmZK218JabDWy5MoCQ56+K1uObZzSZJqUdIYrW7/W2tWu9rOh48/i3ZUiSXQjKfCO59Bdx7/seJ7reT5ejLIvlNHQLYRQMWqNKmHJHsGKjlU3jELaMNRScs2SphhIISDQDY0oJbOm2VrypteEhNASlgHhbfU7ozqyu/CGlX4NLIxKz+5gXMzEpDS2O0kjQmVWk/x5x58pKXVxF+9mwE3yyrwUzy1+M/sUmAKhX/IAvd3tbz8Ng+Fo9TnbphRurvtd1y6zJXxjd3ynwiAiStuo9b5MRZqxmBOBo2mkY46ii7epRltbN4wA56Rij1JoUloEZsAEqPt9Yqy0ArNGyElqimOeae+ljAuUhl1Nsnu7AhmDVns0sbMXNs3lObPDrCrasDxTUa1g3tiKxB6U8GnlKpd4Y9OZD7+moO5WP8xx8xxOVsCLRzteX5AY8NLxBhwdTFcK70Kd77BQWCOng58bU35MEZeq40/yNiD7aqJ6vJ/IlGkmRW15jIsdOmi7JGbLCtYNjzFhXMvcZR/MoFj2wO28mHnyRqq1Tc7y3eZbv4c0NX5uGOegbDnLgHOL2eKukLkMSCXfrdcswJQ5tuBFLPkUrn3hwI7ECYdeIGO7KicBRNjGoJqtzZl4KIRIa0OHiamft8iyrEcVyXpMFobHG8KrnTLbQbUesNWesrjgRtNVQIXfY3je10xgfEXQC0o0MZVCPcXrBk9Pl2xRVGkXY1/0jc9cTrs+BjDqJSJEH1nENCwT3C46yhCvzcZTcoNOqO2gejeZBruRW2ZWyU2NsMCUVUq74Y7j4cVt6A2afdhv96E7eqYPh69vQxzWOvE10PNb0GvBDgSdmNcHjlZ4Yh/uI4YndorygvGyBGskm0Wfa8ZA8d1h1wC+ktm8Eqa5gBMmlywwdDwo4StrksqNCuCPRxnfl0SFcHTFC9t7tPEubNdYAcfW3TZfjWdw/g045zQjihpySqVYaqJss3OqiMhtiEDsqKMc9T4IRy9OylHXeTuUNsnZguu7ofTgi8Z95pPmWZSO/iVK+2eUNgwHZ5SeDKVbgoE53/C3m36OotdfULpkCnMmjzO0fB+emqGDkzJ03PX+d4Qefo1+TIYOzwxtGI7ODD0VQye8+AZ1LqWQOU/bHF3uUw0IE2dCYyaOgtT/ICAdnRSkb4LR9/vMHJ+UkShV/4Hm5rV/kv35Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-25T20:47:05.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ASJr3o8jAfbN5NyP3pP_" version="13.8.2" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IkY961-aOnDu3_AoUEnE-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-4" target="IkY961-aOnDu3_AoUEnE-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="390" />
+              <mxPoint x="200" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-4" target="IkY961-aOnDu3_AoUEnE-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="390" />
+              <mxPoint x="600" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-4" value="Skład osobowy RKN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-12" value="s" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="420" width="320" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-7" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=0;dy=30;fillColor=#00693c;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-12">
+          <mxGeometry width="320" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-11" value="&lt;font color=&quot;#ffffff&quot;&gt;URSS AGH&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-12">
+          <mxGeometry x="120" width="80" height="30.76923076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-46" value="&lt;div&gt;Przewodnicząca Komisji ds. Rozwoju&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-12">
+          <mxGeometry x="95" y="119.5" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-48" value="Przewodniczący URSS AGH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-12">
+          <mxGeometry x="95" y="40" width="130.28571428571428" height="67.82608695652173" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-15" value="s" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="440" width="380" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-59" value="" style="group;" vertex="1" connectable="0" parent="IkY961-aOnDu3_AoUEnE-15">
+          <mxGeometry x="-10" y="-9.52434782608691" width="379.99999999999994" height="409.5243478260869" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-14" value="Przedstawiciele Kół Naukowych AGH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-59">
+          <mxGeometry width="379.99999999999994" height="49.52380952380952" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-55" value="" style="group" vertex="1" connectable="0" parent="IkY961-aOnDu3_AoUEnE-59">
+          <mxGeometry x="30" y="9.52434782608691" width="330" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-6" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=0;dy=40;fillColor=#00693c;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-55">
+          <mxGeometry y="-20" width="320" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-18" value="Przedstawiciel kół zajmujących się&amp;nbsp;&lt;span id=&quot;docs-internal-guid-c864b5bb-7fff-05d9-7447-67477e5605bd&quot;&gt;&lt;span style=&quot;font-size: 10pt ; font-family: &amp;#34;verdana&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;IT&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-55">
+          <mxGeometry x="10" y="130" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-19" value="Przedstawiciel kół zajmujących się energetyką" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-55">
+          <mxGeometry x="180" y="130" width="130.28571428571428" height="67.82608695652173" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-22" value="&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Przedstawiciel kół zajmujących się z&lt;/span&gt;&lt;span&gt;arządzaniem i tematyką humanistyczną&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-55">
+          <mxGeometry x="10" y="210" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-23" value="Przedstawiciel kół zajmujących się naukami o ziemii" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-55">
+          <mxGeometry x="10" y="38.22000000000003" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-25" value="&lt;br&gt;Przedstawiciel kół zajmujących się m&lt;span&gt;ateriałoznawstwem i chemią&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-55">
+          <mxGeometry x="180.29" y="210" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-53" value="Przedstawiciel kół zajmujących się automatyką/elektroniką" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-55">
+          <mxGeometry x="180" y="38.22000000000003" width="130.28571428571428" height="67.82608695652173" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-61" value="&lt;br&gt;Przedstawiciel kół zajmujących się naukami ścisłymi&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IkY961-aOnDu3_AoUEnE-55">
+          <mxGeometry x="100" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IkY961-aOnDu3_AoUEnE-58" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Przedstawiciele Kół Naukowych AGH zajmujących się zbliżoną tematyką&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="420" width="215" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
