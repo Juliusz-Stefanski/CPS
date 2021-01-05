@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T21:31:40.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="dOAX7DCcf6TXvxooAerw" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T21:10:13.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZV3znSVng1FM1B09G-8Q" version="13.9.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2889" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2889" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IkY961-aOnDu3_AoUEnE-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-4" target="IkY961-aOnDu3_AoUEnE-64">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="IkY961-aOnDu3_AoUEnE-4" target="IkY961-aOnDu3_AoUEnE-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="350" />
@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpSize=13;strokeWidth=2;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-4" target="IkY961-aOnDu3_AoUEnE-65">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpSize=13;strokeWidth=2;" parent="1" source="IkY961-aOnDu3_AoUEnE-4" target="IkY961-aOnDu3_AoUEnE-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="350" />
@@ -20,10 +20,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Skład osobowy RKN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Skład osobowy RKN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-65" target="IkY961-aOnDu3_AoUEnE-48">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="IkY961-aOnDu3_AoUEnE-65" target="IkY961-aOnDu3_AoUEnE-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="460" />
@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-65" target="IkY961-aOnDu3_AoUEnE-46">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="IkY961-aOnDu3_AoUEnE-65" target="IkY961-aOnDu3_AoUEnE-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="460" />
@@ -39,19 +39,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-65" value="&lt;font color=&quot;#ffffff&quot;&gt;URSS AGH&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-65" value="&lt;font color=&quot;#ffffff&quot;&gt;URSS AGH&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="630.29" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-46" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Przewodnicząca Komisji ds. Rozwoju&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-46" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Przewodnicząca Komisji ds. Rozwoju&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="770" y="495" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-48" value="&lt;font color=&quot;#ffffff&quot;&gt;Przewodniczący URSS AGH&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-48" value="&lt;font color=&quot;#ffffff&quot;&gt;Przewodniczący URSS AGH&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="540" y="495" width="130.28571428571428" height="67.82608695652173" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-53" value="&lt;font color=&quot;#ffffff&quot;&gt;Przedstawiciel kół zajmujących się automatyką/elektroniką&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-53" value="&lt;font color=&quot;#ffffff&quot;&gt;Przedstawiciel kół zajmujących się automatyką/elektroniką&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="170" y="490" width="130.28571428571428" height="67.82608695652173" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-18">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="460" />
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-53">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="460" />
@@ -67,7 +67,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-19">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="460" />
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-23">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="460" />
@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-61">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="460" />
@@ -91,7 +91,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-22">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="460" />
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-25">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="IkY961-aOnDu3_AoUEnE-64" target="IkY961-aOnDu3_AoUEnE-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="460" />
@@ -107,25 +107,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-64" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Przedstawiciele Kół Naukowych AGH zajmujących się zbliżoną tematyką&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-64" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Przedstawiciele Kół Naukowych AGH zajmujących się zbliżoną tematyką&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="10" y="380" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-18" value="&lt;font color=&quot;#ffffff&quot;&gt;Przedstawiciel kół zajmujących się&amp;nbsp;&lt;span id=&quot;docs-internal-guid-c864b5bb-7fff-05d9-7447-67477e5605bd&quot;&gt;&lt;span style=&quot;font-size: 10pt ; font-family: &amp;#34;verdana&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;IT&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-18" value="&lt;font color=&quot;#ffffff&quot;&gt;Przedstawiciel kół zajmujących się&amp;nbsp;&lt;span id=&quot;docs-internal-guid-c864b5bb-7fff-05d9-7447-67477e5605bd&quot;&gt;&lt;span style=&quot;font-size: 10pt ; font-family: &amp;#34;verdana&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;IT&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="355" y="495" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-19" value="&lt;font color=&quot;#ffffff&quot;&gt;Przedstawiciel kół zajmujących się energetyką&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-19" value="&lt;font color=&quot;#ffffff&quot;&gt;Przedstawiciel kół zajmujących się energetyką&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="-30" y="490" width="130.28571428571428" height="67.82608695652173" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-22" value="&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;Przedstawiciel kół zajmujących się z&lt;/span&gt;&lt;span&gt;arządzaniem i tematyką humanistyczną&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-22" value="&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;Przedstawiciel kół zajmujących się z&lt;/span&gt;&lt;span&gt;arządzaniem i ekonomią&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="70" y="610" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-23" value="&lt;font color=&quot;#ffffff&quot;&gt;Przedstawiciel kół zajmujących się naukami o ziemii&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-23" value="&lt;font color=&quot;#ffffff&quot;&gt;Przedstawiciel kół zajmujących się naukami o ziemii&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="-240" y="490" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-25" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;Przedstawiciel kół zajmujących się m&lt;/font&gt;&lt;span&gt;&lt;font color=&quot;#ffffff&quot;&gt;ateriałoznawstwem i chemią&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-25" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;Przedstawiciel kół zajmujących się m&lt;/font&gt;&lt;span&gt;&lt;font color=&quot;#ffffff&quot;&gt;ateriałoznawstwem i chemią&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="250" y="610" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-61" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Przedstawiciel kół zajmujących się naukami ścisłymi&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" vertex="1" parent="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-61" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Przedstawiciel kół zajmujących się naukami ścisłymi&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="-130" y="610" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
