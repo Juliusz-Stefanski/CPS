@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T21:10:13.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZV3znSVng1FM1B09G-8Q" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-08T20:22:42.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="cLWIhpQwL-lTmOj41QSx" version="14.1.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2889" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="IkY961-aOnDu3_AoUEnE-65" value="&lt;font color=&quot;#ffffff&quot;&gt;URSS AGH&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="630.29" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkY961-aOnDu3_AoUEnE-46" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Przewodnicząca Komisji ds. Rozwoju&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
+        <mxCell id="IkY961-aOnDu3_AoUEnE-46" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Osoba wyznaczona przez przewodniczącego URSS AGH&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
           <mxGeometry x="770" y="495" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IkY961-aOnDu3_AoUEnE-48" value="&lt;font color=&quot;#ffffff&quot;&gt;Przewodniczący URSS AGH&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00693C;" parent="1" vertex="1">
